@@ -1,0 +1,5 @@
+ipykernel
+PyCryptodome
+BCrypt
+nltk
+matplotlib
