@@ -1,0 +1,15 @@
+Bilbo:welcome, time:5.068749666213989
+Gandalf:wizard, time:29.114195585250854
+Thorin:diamond, time:53.45210814476013
+Fili:desire, time:78.61240029335022
+Kili:ossify, time:4.353984355926514
+Balin:hangout, time:208.26051115989685
+Dwalin:drossy, time:229.40469527244568
+Oin:ispaghul, time:43.43364763259888
+Gloin:oversave, time:349.24432158470154
+Dori:indoxylic, time:46.7383873462677
+Nori:swagsman, time:481.60737228393555
+Ori:airway, time:1035.1358959674835
+Bifur:corrosible, time:961.827577829361
+Bofur:libellate, time:707.8352847099304
+Durin:purrone, time:1443.6007857322693

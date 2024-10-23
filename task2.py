@@ -8,7 +8,7 @@ if mp.get_context().get_start_method(allow_none=True) is None:
     mp.set_start_method("spawn")
 
 DICT_FILENAME = "nltk_data/corpora/words/en"
-NUM_WORKERS = 1
+NUM_WORKERS = 48
 
 
 def crack_password(password_hash: bytes, num_workers: int = 1) -> Optional[str]:
@@ -64,4 +64,4 @@ if __name__ == "__main__":
         print(f"Time taken: {duration}s")
 
         with open("cracked.txt", "a") as cracked_file:
-            cracked_file.write(f"{user}:{result}, time:{duration}\n")
+            cracked_file.write(f"{user}:{result}, time:{duration}s\n")
